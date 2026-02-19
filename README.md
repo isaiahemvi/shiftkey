@@ -8,5 +8,6 @@ Shiftkey is a real-time cybersecurity tool that distorts the noise of keyboard p
   - Find noise algorithm that most closely masks keyboard frequency
 - Insert random, unprompted keystroke noises in long typing sessions to increase variability
 - Fix latency
+- Test tool against real AI systems
 
 
